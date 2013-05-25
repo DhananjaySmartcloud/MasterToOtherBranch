@@ -30,7 +30,7 @@
 #pragma mark -
 #pragma mark Master Brnach Methods -
 
-- (void)masterBranchMethod
+- (void)smartcloudBranchMethod
 {
 
 }
